@@ -1,0 +1,14 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Header component should render 1`] = `
+<h1
+  className="sc-AxjAm jatRZr"
+>
+  TWEET SAVER
+   
+  <img
+    alt=""
+    src="https://img.icons8.com/fluent/48/000000/twitter.png"
+  />
+</h1>
+`;

@@ -1,0 +1,53 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing Container component should render 1`] = `
+<div
+  className="sc-AxhUy dAIsvf"
+>
+  <div
+    className="sc-AxgMl iipIta"
+  >
+    <div
+      className="sc-AxheI iGbYRP"
+    >
+      <input
+        className="sc-Axmtr gNRnoQ"
+        onChange={[Function]}
+        onKeyPress={[Function]}
+        placeholder="Search tweets"
+        type="text"
+        value=""
+      />
+      <button
+        className="sc-AxmLO dfVTCk"
+        disabled={true}
+        onClick={[Function]}
+      >
+        Search
+      </button>
+    </div>
+    <div
+      className="sc-fzozJi cYJomm"
+    />
+  </div>
+  <div
+    className="sc-AxgMl iipIta"
+  >
+    <div
+      className="sc-fzoLsD lcAZcC"
+    >
+      SAVED TWEETS
+      <button
+        onClick={[Function]}
+      >
+        Clear
+      </button>
+    </div>
+    <div
+      className="sc-fzozJi cYJomm droppable"
+      onDragOver={[Function]}
+      onDrop={[Function]}
+    />
+  </div>
+</div>
+`;

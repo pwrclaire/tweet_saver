@@ -1,0 +1,33 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing SingleTweet component should render 1`] = `
+<div
+  className="sc-AxjAm fGihqS"
+  id={1269372565350494200}
+  onDragStart={[Function]}
+>
+  <div
+    className="sc-AxirZ cXrbly"
+  >
+    <img
+      alt=""
+    />
+  </div>
+  <div
+    className="sc-AxiKw jWoTjM"
+  >
+    <div
+      className="sc-AxhCb ZaNiK"
+    >
+      <b>
+        GjeniAzelia
+      </b>
+       @
+      AzeliaGjeni
+        
+      Jun 6, 2020
+    </div>
+    @Friendlyperson0 Test test
+  </div>
+</div>
+`;
